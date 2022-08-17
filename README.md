@@ -9,6 +9,9 @@
 - **React**
 - **Redux-toolkit**
 
+## Rails back-end link
+[Rails back-end](https://github.com/zmekonnen251/hello-rails-back-end)
+
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
